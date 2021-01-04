@@ -30,7 +30,9 @@ The Jupytor notebook file named "Write a Data Science Blog Post" is uploaded her
 
 ## Results
 
-The main findings of the code can be found at the post available.
+The main findings of the code can be found at the Medium post available [here](https://junfang219.medium.com/does-having-a-ph-d-make-you-earn-more-in-the-tech-field-85d366d4b0f7).
+
+
 
 ## Licensing, Authors, Acknowledgements
 
